@@ -28,9 +28,9 @@ It is more **cleaner** than html and increase your coding **speed**.
 				<s>Heading 3</s>
 			</h3>
 			<p>
-                This is first line in <b style="color:red">paragraph</b><br>
-                This is middle line in <i style="color:green">paragraph</i><br>
-                This is last line in <u style="color:blue;">paragraph</u>
+                		This is first line in <b style="color:red">paragraph</b><br>
+                		This is middle line in <i style="color:green">paragraph</i><br>
+                		This is last line in <u style="color:blue;">paragraph</u>
 			</p>
 		</font>
 	</body>
