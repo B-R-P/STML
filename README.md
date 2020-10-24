@@ -18,8 +18,8 @@ It is more **cleaner** than html and increase your coding **speed**.
 		<font color="white" size="5">
 			<h1>
 				<u>
-                    <center>Heading 1</center>
-                </u>
+                    			<center>Heading 1</center>
+              		  	</u>
 			</h1>
 			<h2>
 				<i>Heading 2</i>
