@@ -63,7 +63,7 @@ py stml.py filename.stml
 ```
 For *Windows*
 
-Download [stml.zip]("https://drive.google.com/uc?export=download&id=1F_dwS92XnjJnBcbYYbkn5_W2z-3ky1mX") and extract stml folder.Add stml folder to PATHS in environmental variable.
+Download [stml.zip](https://drive.google.com/uc?export=download&id=1F_dwS92XnjJnBcbYYbkn5_W2z-3ky1mX) and extract stml folder.Add stml folder to PATHS in environmental variable.
 
 ```cmd
 stml filname.stml
