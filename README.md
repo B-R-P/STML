@@ -2,6 +2,8 @@
 
 #### Simple Text Markup Language
 
+Source-to-Source Compiler
+
 **STML** is **simplified** version of HTML
 
 It is more **cleaner** than html and increase your coding **speed**. 
