@@ -13,7 +13,7 @@ def marg(tg,c):#Extract multiple arguments
 	if len(tg)==1:
 		w=[""]
 	else:
-		w=tg[1].split("|")
+		w=''.join(tg[1:]).split("|")
 	tsp=tg[0].split(",")
 	w+=['']*(len(tsp)-len(w))
 	for i,ar in zip(reversed(tsp[1:]),reversed(w[1:])):
