@@ -72,6 +72,8 @@ stml filname.stml
 ```
 For Sublime Text Editor
 [Build System](https://drive.google.com/uc?export=download&id=1wyzE7zZXEFoTzgcyTqkB3Un7_6VFoCOS)
-*No Syntax Support*
+
+[Syntax](https://gdurl.com/z1Cp/download)
+*Not Perfect*
 
 HTML file will be saved as filename.html
