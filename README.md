@@ -71,9 +71,10 @@ Download [stml.zip](https://drive.google.com/uc?export=download&id=1F_dwS92XnjJn
 stml filname.stml
 ```
 For Sublime Text Editor
+
 [Build System](https://drive.google.com/uc?export=download&id=1wyzE7zZXEFoTzgcyTqkB3Un7_6VFoCOS)
 
 [Syntax](https://gdurl.com/z1Cp/download)
-*Not Perfect*
+(*Not Perfect*)
 
 HTML file will be saved as filename.html
