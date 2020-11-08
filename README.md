@@ -54,8 +54,8 @@ font color=white,size=5
 	 Heading 3
 	p
 	-!
-	This is first line in <b style=color:red- paragraph/>n|
-	This is middle line in <i style=color:green- paragraph/>n|
+	This is first line in <b style=color:red- paragraph/>
+	This is middle line in <i style=color:green- paragraph/>
 	This is last line in <u style=color:blue;- paragraph/>
 	-!
 ```
