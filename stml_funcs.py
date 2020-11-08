@@ -10,7 +10,7 @@ emptysing="$$"
 comment="/#"
 temp="%$#"#for temporary use
 singline="=> "
-multicode="&;"
+multicode=" &; "
 escape="\\"
 attr=comp(r"(?<==)[^,]*(?=,)|(?<==).+(?=$)")
 def marg(tg,c,fl=""):#Extract multiple arguments
