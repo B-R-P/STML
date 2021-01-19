@@ -50,8 +50,7 @@ font color=white,size=5
 	 Heading 1
 	h2,i
 	 Heading 2
-	h3,s
-	 Heading 3
+	h3,s => Heading 3
 	p
 	-!
 	This is first line in <b style=color:red- paragraph/>
